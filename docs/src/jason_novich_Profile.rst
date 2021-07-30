@@ -1,6 +1,6 @@
 
 Jason Novich Number 1
-=============
+======================
 +----------------------------------+----------------------------------+
 |    Contact                       | Jason Novich                     |
 |                                  |                                  |
@@ -108,25 +108,11 @@ Jason Novich Number 1
    | Product Manager / Product OwnerJuly 2017 - April 2018 (10
      months)Petah Tikva Area, Israel
 
-   • Creation & prioritization of product specifications / user stories
-   based on
-
-   customer requirements
-
-   • Building and maintaining product line software and hardware product
-
-   roadmaps
-
-   • Work closely with QA & engineering to deliver products that meet
-   customer
-
-   requirements
-
-   • R&D project prioritization based on customer requirements vs. time
-   to market
-
+   • Creation & prioritization of product specifications / user stories based on customer requirements
+   • Building and maintaining product line software and hardware product roadmaps
+   • Work closely with QA & engineering to deliver products that meet customer requirements
+   • R&D project prioritization based on customer requirements vs. time to market
    • Managed in-house and outsourced technical writers
-
    • Software R&D backlog grooming
 
    Unitronics - PLC & Automation products
@@ -140,64 +126,25 @@ Jason Novich Number 1
    | Product Manager
    | December 2015 - November 2016 (1 year)
 
-   • Creation of product specs and user stories based on customer
-   requirements
-
-   • Feature definition and UI / UX wireframes for the Integrated
-   Development
-
-   Environment (IDE)
-
+   • Creation of product specs and user stories based on customer requirements
+   • Feature definition and UI / UX wireframes for the Integrated Development Environment (IDE)
    • Strategize and evaluate emerging technologies
-
-   • Building and maintaining product line software and hardware product
-
-   roadmaps
-
+   • Building and maintaining product line software and hardware product roadmaps
    • Software R&D backlog grooming
-
-   • Management, maintenance and positioning of the Unitronics
-   developers
-
-   market
-
+   • Management, maintenance and positioning of the Unitronics developers market
    • Competitive analysis and product positioning
 
    | VideoFlow Ltd.
    | Pre/Post Sales support and Testing
    | May 2014 - December 2015 (1 year 8 months)
 
-   • Design and implementation of pre sales training for distributors
-   and clients
-
-   (B2B)
-
-   • Prime point of contact for distributors and clients for all
-   technical issues pre
-
-   and post sale (B2B)
-
-   • Provide market feedback to corporate executives and assist in
-   roadmap
-
-   development (product features)
-
-   • Develop and execute tests for assessing software compliance,
-   feature
-
-   verification, reliability testing, based on software requirement
-   documents
-
-   • Develop and document software test vision, cases, plans and
-   protocols
-
-   • Develop and maintain accurate testing logs and tracking issues (QA
-   and
-
-   customer bugs) associated with system performance
-
+   • Design and implementation of pre sales training for distributors and clients (B2B)
+   • Prime point of contact for distributors and clients for all technical issues pre and post sale (B2B)
+   • Provide market feedback to corporate executives and assist in roadmap development (product features)
+   • Develop and execute tests for assessing software compliance, feature verification, reliability testing, based on software requirement documents
+   • Develop and document software test vision, cases, plans and protocols
+   • Develop and maintain accurate testing logs and tracking issues (QA and customer bugs) associated with system performance
    • Production line management and execution
-
    • IT infrastructure design, deployment and maintenance
 
    | Elpas
