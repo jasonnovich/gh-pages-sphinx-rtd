@@ -1,5 +1,5 @@
 
-Jason Novich Is The Best
+Jason Novich
 =============
 +----------------------------------+----------------------------------+
 |    Contact                       | Jason Novich                     |
