@@ -12,6 +12,7 @@ Welcome to Pushed documentation!
 
   autodoc
   src/jason_novich_Profile
+  src/contact_info
 
 Indices and tables
 ==================
