@@ -4,7 +4,7 @@ Skills and Languages
 Skills
 ~~~~~~~
 .. list-table:: **General Skills**
-   :widths: 25 25 50
+   :widths: 30 30 30
    :header-rows: 0
 
    * -  Product Management
@@ -15,7 +15,7 @@ Skills
      -  Pre-sales
 
 .. list-table:: **Industry Knowledge**
-   :widths: 25 25 50
+   :widths: 30 30 30
    :header-rows: 0
 
    * -  Software Development
@@ -35,16 +35,11 @@ Skills
      -  Internet of Things
    * -  Data Networking
      -  Application Programming Interfaces
-     -  Sphinx
-   * -  User Documentation
-     -  Darwin Information Typing Architecture (DITA)
-     -  Markdown
-   * -  FrameMaker
-     -  Hugo
-     -
+     -  User Documentation
+
 
 .. list-table:: **Tools & Technologies**
-   :widths: 25 25 50
+   :widths: 30 30 30
    :header-rows: 0
 
    * -  Postman API
@@ -53,17 +48,23 @@ Skills
    * -  Microsoft Project
      -  Microsoft Office
      -  Jira
-   * -  Python (Programming Language)
+   * -  Python
      -  JSON
      -  XML
    * -  GitHub
      -  HTML
      -  REST APIs
+   * -  Darwin Information Typing Architecture (DITA)
+     -  Markdown
+     -  FrameMaker
+   * -  Hugo
+     -  Sphinx
+     -
 
 Languages
 ~~~~~~~~~~
 | **English**
-| Native or bilingual proficiency
+| Native proficiency
 
 | **Hebrew**
 | Full professional proficiency
