@@ -13,6 +13,7 @@ Jason Novich - Professional Profile
   src/summary
   src/experience
   src/accomplishments
+  src/showcase
   src/skills
   src/education
   src/contact_info
