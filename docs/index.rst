@@ -3,15 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Pushed documentation!
+Jason Novich - Professional Profile
 ==============================================
 
 .. toctree::
   :maxdepth: 2
-  :caption: Contents:
+  :caption: Table of Contents:
 
-  autodoc
-  src/jason_novich_Profile
+  src/summary
+  src/experience
+  src/education
   src/contact_info
 
 Indices and tables
