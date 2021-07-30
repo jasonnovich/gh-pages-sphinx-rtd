@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('src'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Jason Novich - Professional Profile'
+project = 'Jason Novich <br><br> Professional Profile'
 copyright = '2021, Jason Novich'
 author = 'Jason Novich'
 

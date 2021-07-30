@@ -3,9 +3,8 @@ Experience
 
 O2 Product Management & Technical Writing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-**Freelance Technical Writer**
-
-*August 2010 - Present - Israel*
+| **Freelance Technical Writer**
+| *August 2010 - Present - Israel*
 
 My passion is to help companies craft and deliver technical
 documentation for innovative products and solutions that have direct
@@ -14,34 +13,27 @@ delivery technologies and deployment platforms.
 
 Revuze
 ~~~~~~
-
-**Freelance Technical Writer**
-
-*June 2021 - Present - Israel*
+| **Freelance Technical Writer**
+| *June 2021 - Present - Israel*
 
 * API documentation
 * FAQ creation
 
 Iguazio
 ~~~~~~~
-
-**Technical Writer**
-
-*May 2021 - Present - Hertzlia, Israel*
+| **Technical Writer**
+| *May 2021 - Present - Hertzlia, Israel*
 
 VideoFlow Ltd.
 ~~~~~~~~~~~~~~
-**Technical Writer & Technical Support**
-
-*April 2019 - Present - Rosh Ha'ayin, Israel*
+| **Technical Writer & Technical Support**
+| *April 2019 - Present - Rosh Ha'ayin, Israel*
 
 * Content architecture deployment strategy
 * Authoring, editing, and publishing of user guides PDF/HTML Quick Start Guides
 
-**Pre/Post Sales support and QA**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-*May 2014 - December 2015 - Rosh Ha'ayin, Israel*
+| **Pre/Post Sales support and QA**
+| *May 2014 - December 2015 - Rosh Ha'ayin, Israel*
 
 * Design and implementation of pre sales training for distributors and clients (B2B)
 * Prime point of contact for distributors and clients for all technical issues pre and post sale (B2B)
@@ -55,10 +47,8 @@ VideoFlow Ltd.
 
 Transmit Security
 ~~~~~~~~~~~~~~~~~
-
-**Senior Technical Writer**
-
-*December 2020 - May 2021 Tel Aviv Area, Israel*
+| **Senior Technical Writer**
+| *December 2020 - May 2021 Tel Aviv Area, Israel*
 
 * Authoring and editing of user guides Authoring and editing of SDK guides
 * DITA conversion strategy and tooling
@@ -66,10 +56,8 @@ Transmit Security
 
 RADCOM
 ~~~~~~
-
-**Technical Writer**
-
-*June 2019 - November 2020 - Tel Aviv Area, Israel*
+| **Technical Writer**
+| *June 2019 - November 2020 - Tel Aviv Area, Israel*
 
 * Content architecture and deployment strategy
 * Authoring, editing, and publishing of user guides
@@ -77,10 +65,8 @@ RADCOM
 
 TIBA Parking
 ~~~~~~~~~~~~
-
-**Product Manager / Product Owner**
-
-*July 2017 - April 2018 - Petah Tikva Area, Israel*
+| **Product Manager / Product Owner**
+| *July 2017 - April 2018 - Petah Tikva Area, Israel*
 
 * Creation & prioritization of product specifications / user stories based on customer requirements
 * Building and maintaining product line software and hardware product roadmaps
@@ -91,10 +77,8 @@ TIBA Parking
 
 Unitronics - PLC & Automation products
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Product Manager**
-
-*December 2015 - November 2016 - Airport City, Israel*
+| **Product Manager**
+| *December 2015 - November 2016 - Airport City, Israel*
 
 * Creation of product specs and user stories based on customer requirements
 * Feature definition and UI / UX wireframes for the Integrated Development Environment (IDE)
@@ -106,10 +90,8 @@ Unitronics - PLC & Automation products
 
 Elpas
 ~~~~~
-
-**Product Manager**
-
-*January 2011 - December 2013 - Tel Aviv, Israel*
+| **Product Manager**
+| *January 2011 - December 2013 - Tel Aviv, Israel*
 
 Since 1993, Visonic Technologies has been manufacturing a full
 spectrum of advanced Triple Technology Active RFID (Radio Frequency
@@ -128,9 +110,8 @@ museums.
 
 Foxcom, a division of OnePath Networks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Senior Product Manager*
-*August 2007 - July 2010 - Jerusalem area, Israel*
+| **Senior Product Manager**
+| *August 2007 - July 2010 - Jerusalem area, Israel*
 
 The Data Products Manager is responsible for the line of products
 that deal with IP transport and FTTx deployment. Foxcom, a division
@@ -160,10 +141,8 @@ government and military organizations.
 
 TRA Computers
 ~~~~~~~~~~~~~
-
-**Owner and Founder**
-
-*August 2004 - August 2007 - Wesley Hills, New York, USA*
+| **Owner and Founder**
+| *August 2004 - August 2007 - Wesley Hills, New York, USA*
 
 TRA Computers first and foremost helps our customers understand
 technology and the role it plays in increasing their productivity.
@@ -177,11 +156,8 @@ or custom business applications.
 
 Standard Micro Systems
 ~~~~~~~~~~~~~~~~~~~~~~
-
-**Product Marketing Manager**
-
-
-*December 2002 - June 2003 - Hauppauge, New York, USA*
+| **Product Marketing Manager**
+| *December 2002 - June 2003 - Hauppauge, New York, USA*
 
 Defined and proposed new notebook Advanced I/O products. Conducted
 competitive analysis studies and product positioning. Defined and
@@ -191,10 +167,8 @@ Served as a representative at trade shows and standards conferences.
 
 Brightcom Technologies
 ~~~~~~~~~~~~~~~~~~~~~~
-
-**Product Marketing Manager**
-
-*October 2000 - March 2002 - Tel Aviv, Israel*
+| **Product Marketing Manager**
+| *October 2000 - March 2002 - Tel Aviv, Israel*
 
 Defined and proposed new Bluetooth to LAN wireless bridge. Prepared
 marketing materials, including data sheets and product brochures and
@@ -205,11 +179,8 @@ positioning. Speaker at international conferences.
 
 RADLAN Inc.
 ~~~~~~~~~~~
-
-*Regional Tech Support Manager/Field Application Engineer*
-
-
-*February 1998 - October 2000 Tel Aviv, Israel*
+| **Regional Tech Support Manager/Field Application Engineer**
+| *February 1998 - October 2000 Tel Aviv, Israel*
 
 Worked with customer marketing and engineering teams to define
 products and services. Organized technical seminars for distributor
@@ -220,11 +191,8 @@ members.
 
 IBM Israel
 ~~~~~~~~~~
-
-*Technical Marketing Specialist*
-
-
-*March 1995 - February 1998 - Tel Aviv, Israel*
+| **Technical Marketing Specialist**
+| *March 1995 - February 1998 - Tel Aviv, Israel*
 
 Provided PC server pre-/post-sales support and technical training
 for IBM customers and dealers. Consulted customers regarding
